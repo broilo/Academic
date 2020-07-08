@@ -2,15 +2,25 @@
 Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
 
   Ph.D. Dissertation: Nonperturbative Dynamics of Hadronic Collisions
+  
   https://arxiv.org/abs/1908.01040
+  
   Citation:
+  
   @phdthesis{Broilo:2019rqb,
+  
     author = "Broilo, Mateus",
+    
     title = "{Nonperturbative Dynamics of Hadronic Collisions}",
+    
     eprint = "1908.01040",
+    
     archivePrefix = "arXiv",
+    
     primaryClass = "hep-ph",
+    
     school = "Rio Grande do Sul U.",
+    
     year = "2019"
   }
 
