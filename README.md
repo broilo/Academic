@@ -169,7 +169,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2019"
     }
   
-  ### (9) *Model of diffractive excitation in pppp collisions at high energies*
+  ### (9) *Model of diffractive excitation in pp collisions at high energies*
   
   DOI: 10.1103/PhysRevD.101.074034
   
