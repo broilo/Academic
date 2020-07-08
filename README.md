@@ -5,7 +5,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
   
   https://arxiv.org/abs/1908.01040
   
-  Citation:
+  Citation (Bibtex):
   
     @phdthesis{Broilo:2019rqb,
         author = "Broilo, Mateus",
