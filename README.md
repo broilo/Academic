@@ -37,7 +37,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2016"
     }
   
-  (2) Nonperturbative QCD effects in forward scattering at the LHC
+  ### (2) *Nonperturbative QCD effects in forward scattering at the LHC*
   
   DOI: 10.1103/PhysRevD.92.074039
   
@@ -57,7 +57,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2015"
     }
   
-  (3) Regge Phenomenology at LHC Energies
+  ### (3) *Regge Phenomenology at LHC Energies*
   
   DOI: 10.1142/S2010194517600643
   
@@ -74,7 +74,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2017"
     }
 
-  (4) Leading Pomeron Contributions and the TOTEM Data at 13 TeV
+  ### (4) *Leading Pomeron Contributions and the TOTEM Data at 13 TeV*
   
   https://arxiv.org/abs/1803.06560
   
@@ -91,7 +91,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2018"
     }
   
-  (5) Soft Pomerons and the Forward LHC Data
+  ### (5) *Soft Pomerons and the Forward LHC Data*
   
   DOI: 10.1016/j.physletb.2018.04.045
   
@@ -110,7 +110,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2018"
    }
  
- (6) Forward Elastic Scattering and Pomeron Models
+ ### (6) *Forward Elastic Scattering and Pomeron Models*
  
  DOI: 10.1103/PhysRevD.98.074006
  
@@ -130,7 +130,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2018"
     }
   
-  (7) Proton-proton forward scattering at the LHC
+  ### (7) *Proton-proton forward scattering at the LHC*
   
   DOI: 10.1016/j.physletb.2019.135047
   
@@ -149,7 +149,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2019"
     }
   
-  (8) Forward elastic scattering: Dynamical gluon mass and semihard interactions
+  ### (8) *Forward elastic scattering: Dynamical gluon mass and semihard interactions*
   
   DOI: 10.1140/epjc/s10052-019-7545-2
   
@@ -169,7 +169,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2019"
     }
   
-  (9) Model of diffractive excitation in pppp collisions at high energies
+  ### (9) *Model of diffractive excitation in pppp collisions at high energies*
   
   DOI: 10.1103/PhysRevD.101.074034
   
