@@ -22,7 +22,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
   DOI: 10.1088/1742-6596/706/5/052006
   
   Citation (Bibtex):
-  
+
     @article{Bahia:2015gya,
       author = "Bahia, C.A.S. and Broilo, M. and Luna, E.G.S.",
       title = "{Energy-dependent dipole form factor in a QCD-inspired model}",
@@ -79,7 +79,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
   https://arxiv.org/abs/1803.06560
   
   Citation (Bibtex):
-  
+
     @inproceedings{Broilo:2018brv,
       author = "Broilo, M. and Luna, E.G.S. and Menon, M.J.",
       title = "{Leading Pomeron Contributions and the TOTEM Data at 13 TeV}",
@@ -108,7 +108,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       volume = "781",
       pages = "616--620",
       year = "2018"
-   }
+    }
  
  ### (6) *Forward Elastic Scattering and Pomeron Models*
  
@@ -116,7 +116,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
  
  Citation (Bibtex):
  
-   @article{Broilo:2018qqs,
+    @article{Broilo:2018qqs,
       author = "Broilo, M. and Luna, E.G.S. and Menon, M.J.",
       title = "{Forward Elastic Scattering and Pomeron Models}",
       eprint = "1807.10337",
@@ -154,7 +154,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
   DOI: 10.1140/epjc/s10052-019-7545-2
   
   Citation (Bibtex):
-  
+
     @article{Broilo:2019xhs,
       author = "Broilo, M. and Fagundes, D.A. and Luna, E.G.S. and Menon, M.J.",
       title = "{Forward elastic scattering: Dynamical gluon mass and semihard interactions}",
