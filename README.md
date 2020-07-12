@@ -1,9 +1,7 @@
 # Academic
 Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
 
-  ### Ph.D. Dissertation: *Nonperturbative Dynamics of Hadronic Collisions*
-  
-  https://arxiv.org/abs/1908.01040
+  ### Ph.D. Dissertation: [*Nonperturbative Dynamics of Hadronic Collisions*](https://arxiv.org/abs/1908.01040)
   
   Citation (Bibtex):
   
@@ -17,7 +15,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
         year = "2019"
     }
 
-  ### (1) *Energy-dependent dipole form factor in a QCD-inspired model*
+  ### (1) [*Energy-dependent dipole form factor in a QCD-inspired model*](https://iopscience.iop.org/article/10.1088/1742-6596/706/5/052006)
   
   DOI: 10.1088/1742-6596/706/5/052006
   
@@ -37,7 +35,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2016"
     }
   
-  ### (2) *Nonperturbative QCD effects in forward scattering at the LHC*
+  ### (2) [*Nonperturbative QCD effects in forward scattering at the LHC*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.074039)
   
   DOI: 10.1103/PhysRevD.92.074039
   
@@ -57,7 +55,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2015"
     }
   
-  ### (3) *Regge Phenomenology at LHC Energies*
+  ### (3) [*Regge Phenomenology at LHC Energies*](https://www.worldscientific.com/doi/abs/10.1142/S2010194517600643)
   
   DOI: 10.1142/S2010194517600643
   
@@ -74,9 +72,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2017"
     }
 
-  ### (4) *Leading Pomeron Contributions and the TOTEM Data at 13 TeV*
-  
-  https://arxiv.org/abs/1803.06560
+  ### (4) [*Leading Pomeron Contributions and the TOTEM Data at 13 TeV*](https://arxiv.org/abs/1803.06560)
   
   Citation (Bibtex):
 
@@ -91,7 +87,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2018"
     }
   
-  ### (5) *Soft Pomerons and the Forward LHC Data*
+  ### (5) [*Soft Pomerons and the Forward LHC Data*](https://linkinghub.elsevier.com/retrieve/pii/S0370269318303368)
   
   DOI: 10.1016/j.physletb.2018.04.045
   
@@ -110,7 +106,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2018"
     }
  
- ### (6) *Forward Elastic Scattering and Pomeron Models*
+ ### (6) [*Forward Elastic Scattering and Pomeron Models*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.074006)
  
  DOI: 10.1103/PhysRevD.98.074006
  
@@ -130,7 +126,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2018"
     }
   
-  ### (7) *Proton-proton forward scattering at the LHC*
+  ### (7) [*Proton-proton forward scattering at the LHC*](https://www.sciencedirect.com/science/article/pii/S0370269319307695?via%3Dihub)
   
   DOI: 10.1016/j.physletb.2019.135047
   
@@ -169,7 +165,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2019"
     }
   
-  ### (9) *Model of diffractive excitation in pp collisions at high energies*
+  ### (9) [*Model of diffractive excitation in pp collisions at high energies*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.074034)
   
   DOI: 10.1103/PhysRevD.101.074034
   
