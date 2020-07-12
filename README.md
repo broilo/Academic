@@ -145,7 +145,7 @@ Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
       year = "2019"
     }
   
-  ### (8) *Forward elastic scattering: Dynamical gluon mass and semihard interactions*
+  ### (8) [*Forward elastic scattering: Dynamical gluon mass and semihard interactions*](https://link.springer.com/article/10.1140/epjc/s10052-019-7545-2)
   
   DOI: 10.1140/epjc/s10052-019-7545-2
   
