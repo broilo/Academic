@@ -1,5 +1,5 @@
 # Academic
-Undergrad-Master-PhD Thesis and Peer-Reviewed Published Papers
+Undergrad-MSc-PhD Thesis and Peer-Reviewed Published Papers
 
   ### Ph.D. Dissertation: [*Nonperturbative Dynamics of Hadronic Collisions*](https://arxiv.org/abs/1908.01040)
   
