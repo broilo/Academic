@@ -192,12 +192,12 @@ Undergrad-MSc-PhD Thesis and Peer-Reviewed Published Papers
   Citation (Bibtex):
   
     @article{Broilo:2020pyl,
-    author = "Broilo, M. and Gonçalves, V.P. and Silva, P.V.R.G.",
-    title = "{Investigating the impact of the partonic structure on the description of hadronic collisions at high energies}",
-    doi = "10.1142/S0217751X20501274",
-    journal = "Int. J. Mod. Phys. A",
-    volume = "35",
-    number = "22",
-    pages = "2050127",
-    year = "2020"
-  }
+      author = "Broilo, M. and Gonçalves, V.P. and Silva, P.V.R.G.",
+      title = "{Investigating the impact of the partonic structure on the description of hadronic collisions at high energies}",
+      doi = "10.1142/S0217751X20501274",
+      journal = "Int. J. Mod. Phys. A",
+      volume = "35",
+      number = "22",
+      pages = "2050127",
+      year = "2020"
+    }
