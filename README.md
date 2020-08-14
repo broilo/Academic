@@ -187,7 +187,7 @@ Undergrad-MSc-PhD Thesis and Peer-Reviewed Published Papers
 
   ### (10) [*Investigating the impact of the partonic structure on the description of hadronic collisions at high energies*](https://www.worldscientific.com/doi/abs/10.1142/S0217751X20501274)
   
-  DOI: https://doi.org/10.1142/S0217751X20501274
+  DOI: 10.1142/S0217751X20501274
   
   Citation (Bibtex):
   
