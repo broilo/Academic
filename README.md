@@ -201,3 +201,24 @@ Undergrad-MSc-PhD Thesis and Peer-Reviewed Published Papers
       pages = "2050127",
       year = "2020"
     }
+
+  ### (11) [*Soft Pomeron in light of the LHC correlated data*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.014019)
+  
+  DOI: 10.1103/PhysRevD.103.014019
+  
+  Citation (Bibtex):
+  
+    @article{PhysRevD.103.014019,
+      title = {Soft Pomeron in light of the LHC correlated data},
+      author = {Broilo, M. and Fagundes, D. A. and Luna, E. G. S. and Pel\'aez, M.},
+      journal = {Phys. Rev. D},
+      volume = {103},
+      issue = {1},
+      pages = {014019},
+      numpages = {15},
+      year = {2021},
+      month = {Jan},
+      publisher = {American Physical Society},
+      doi = {10.1103/PhysRevD.103.014019},
+      url = {https://link.aps.org/doi/10.1103/PhysRevD.103.014019}
+    }
